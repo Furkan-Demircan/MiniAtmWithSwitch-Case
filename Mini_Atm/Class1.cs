@@ -15,7 +15,7 @@ namespace Mini_Atm
             int CardPassword = 1;
             int CardPasswordInput;
             int n;
-            int balance = 1100;
+            int balance = 1200;
             string y;
             string transaction;
 
